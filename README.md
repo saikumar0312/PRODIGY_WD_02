@@ -3,6 +3,7 @@
 By using this stopwatch web apllication we can track and display lap times.
 This web application functions are start,stop,and reset.
 By using this users can accurately measure and record time intervals.
+Users can play against each other or against an AI oponent.
 
 
 
